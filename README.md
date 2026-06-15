@@ -60,3 +60,7 @@ http://localhost:8080
 - 天地图底图需要自行填写可用 `Token`，否则会自动回退到 `OSM`
 - 搜索功能支持输入 `lng,lat` 直接定位，也支持通过浏览器请求 `Nominatim` 进行地名检索
 - Shapefile 导出未实现；当前按需求重点实现了多格式导入和 GeoJSON/KML/CSV 导出
+
+
+# 国内地址
+[gitee地址](https://gitee.com/potro_hugh/geojson-master)
