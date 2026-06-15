@@ -1,0 +1,22 @@
+{
+  "name": "geojson-master",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ol": "^10.6.1",
+    "papaparse": "^5.5.3",
+    "shpjs": "^6.1.0",
+    "topojson-client": "^3.1.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
+}
